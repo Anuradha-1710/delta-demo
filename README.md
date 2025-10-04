@@ -1,2 +1,2 @@
 # delta-demo
-thease is demo for git or github
+thease is demo for git or github.
